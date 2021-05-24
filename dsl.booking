@@ -1,0 +1,41 @@
+system BookingSystemV4 {
+	
+	customer Cust1 {
+		name: string
+	    isVip : bool
+	    somearray : string[11]
+	    minAge : int
+	    age: int
+	    maxAge : int
+	}
+	
+	customer VIP extends Cust1 {
+		VIPMember: string
+		constraint(age > 10)
+	}
+	
+	entity CinemaHall {
+	    name: string  
+	    code: int
+	    has many seats : Seat
+	}
+	
+	schedule RegularSeatSchedule {
+		name: string
+	    startTimeEpoch : int
+	    endTimeEpoch : int
+	    Description : string
+	}
+	
+	resource Seat {
+	    name: string
+	    code: int
+	    has many schedules : RegularSeatSchedule
+	}
+	
+	booking MovieTicket {
+		has one seatSchedule : RegularSeatSchedule
+		has one seat : Seat
+		has one cust : Cust1
+	}
+}

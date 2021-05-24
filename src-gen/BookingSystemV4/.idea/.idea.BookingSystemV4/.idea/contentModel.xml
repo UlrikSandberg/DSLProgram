@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_BookingSystemV4.851277897.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BookingSystemV4" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookingSystemV4.csproj" t="IncludeRecursive" />
+        <e p="ClientApp" t="Include">
+          <e p=".gitignore" t="Include" />
+          <e p="node_modules/@babel/parser" t="IncludeRecursive" />
+          <e p="node_modules/@babel/types" t="IncludeRecursive" />
+          <e p="node_modules/@emotion/hash" t="IncludeRecursive" />
+          <e p="node_modules/@hypnosphi/create-react-context" t="IncludeRecursive" />
+          <e p="node_modules/@jest/console" t="IncludeRecursive" />
+          <e p="node_modules/@jest/environment" t="IncludeRecursive" />
+          <e p="node_modules/@jest/fake-timers" t="IncludeRecursive" />
+          <e p="node_modules/@jest/source-map" t="IncludeRecursive" />
+          <e p="node_modules/@jest/test-result" t="IncludeRecursive" />
+          <e p="node_modules/@jest/transform" t="IncludeRecursive" />
+          <e p="node_modules/@jest/types" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/core" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/icons" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/lab" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/styles" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/system" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/types" t="IncludeRecursive" />
+          <e p="node_modules/@material-ui/utils" t="IncludeRecursive" />
+          <e p="node_modules/@types" t="IncludeRecursive">
+            <e p="axios" t="IncludeRecursive" />
+            <e p="babel__generator" t="IncludeRecursive" />
+            <e p="babel__template" t="IncludeRecursive" />
+            <e p="babel__traverse" t="IncludeRecursive" />
+            <e p="history" t="IncludeRecursive" />
+            <e p="istanbul-lib-coverage" t="IncludeRecursive" />
+            <e p="istanbul-lib-report" t="IncludeRecursive" />
+            <e p="jest" t="IncludeRecursive" />
+            <e p="minimatch" t="IncludeRecursive" />
+            <e p="node" t="IncludeRecursive" />
+            <e p="prop-types" t="IncludeRecursive" />
+            <e p="react" t="IncludeRecursive" />
+            <e p="react-dom" t="IncludeRecursive" />
+            <e p="react-router" t="IncludeRecursive" />
+            <e p="react-router-dom" t="IncludeRecursive" />
+            <e p="scheduler" t="IncludeRecursive" />
+            <e p="yargs-parser" t="IncludeRecursive" />
+          </e>
+          <e p="node_modules/@typescript-eslint/experimental-utils" t="IncludeRecursive" />
+          <e p="node_modules/@typescript-eslint/parser" t="IncludeRecursive" />
+          <e p="node_modules/@typescript-eslint/typescript-estree" t="IncludeRecursive" />
+          <e p="node_modules/acorn" t="IncludeRecursive" />
+          <e p="node_modules/ajv" t="IncludeRecursive" />
+          <e p="node_modules/ansi-regex" t="IncludeRecursive" />
+          <e p="node_modules/ansi-styles" t="IncludeRecursive" />
+          <e p="node_modules/axios" t="IncludeRecursive" />
+          <e p="node_modules/base64-js" t="IncludeRecursive" />
+          <e p="node_modules/bootstrap" t="IncludeRecursive" />
+          <e p="node_modules/camelcase" t="IncludeRecursive" />
+          <e p="node_modules/classnames" t="IncludeRecursive" />
+          <e p="node_modules/clsx" t="IncludeRecursive" />
+          <e p="node_modules/cross-env" t="IncludeRecursive" />
+          <e p="node_modules/csstype" t="IncludeRecursive" />
+          <e p="node_modules/diff-sequences" t="IncludeRecursive" />
+          <e p="node_modules/eslint" t="IncludeRecursive" />
+          <e p="node_modules/eslint-config-react-app" t="IncludeRecursive" />
+          <e p="node_modules/eslint-plugin-flowtype" t="IncludeRecursive" />
+          <e p="node_modules/eslint-plugin-import" t="IncludeRecursive" />
+          <e p="node_modules/eslint-plugin-jsx-a11y" t="IncludeRecursive" />
+          <e p="node_modules/eslint-plugin-react" t="IncludeRecursive" />
+          <e p="node_modules/fast-deep-equal" t="IncludeRecursive" />
+          <e p="node_modules/fast-json-stable-stringify" t="IncludeRecursive" />
+          <e p="node_modules/fsevents" t="IncludeRecursive" />
+          <e p="node_modules/indefinite-observable" t="IncludeRecursive" />
+          <e p="node_modules/is-docker" t="IncludeRecursive" />
+          <e p="node_modules/is-in-browser" t="IncludeRecursive" />
+          <e p="node_modules/jest" t="IncludeRecursive" />
+          <e p="node_modules/jest-diff" t="IncludeRecursive" />
+          <e p="node_modules/jest-environment-jsdom-fourteen" t="IncludeRecursive" />
+          <e p="node_modules/jest-get-type" t="IncludeRecursive" />
+          <e p="node_modules/jest-haste-map" t="IncludeRecursive" />
+          <e p="node_modules/jest-message-util" t="IncludeRecursive" />
+          <e p="node_modules/jest-mock" t="IncludeRecursive" />
+          <e p="node_modules/jest-pnp-resolver" t="IncludeRecursive" />
+          <e p="node_modules/jest-regex-util" t="IncludeRecursive" />
+          <e p="node_modules/jest-resolve" t="IncludeRecursive" />
+          <e p="node_modules/jest-serializer" t="IncludeRecursive" />
+          <e p="node_modules/jest-util" t="IncludeRecursive" />
+          <e p="node_modules/jest-worker" t="IncludeRecursive" />
+          <e p="node_modules/jquery" t="IncludeRecursive" />
+          <e p="node_modules/jss" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-camel-case" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-default-unit" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-global" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-nested" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-props-sort" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-rule-value-function" t="IncludeRecursive" />
+          <e p="node_modules/jss-plugin-vendor-prefixer" t="IncludeRecursive" />
+          <e p="node_modules/material-ui-chip-input" t="IncludeRecursive" />
+          <e p="node_modules/merge" t="IncludeRecursive" />
+          <e p="node_modules/nan" t="IncludeRecursive" />
+          <e p="node_modules/oidc-client" t="IncludeRecursive" />
+          <e p="node_modules/open" t="IncludeRecursive" />
+          <e p="node_modules/pirates" t="IncludeRecursive" />
+          <e p="node_modules/popper.js" t="IncludeRecursive" />
+          <e p="node_modules/pretty-format" t="IncludeRecursive" />
+          <e p="node_modules/react" t="IncludeRecursive" />
+          <e p="node_modules/react-dom" t="IncludeRecursive" />
+          <e p="node_modules/react-popper" t="IncludeRecursive" />
+          <e p="node_modules/react-router-bootstrap" t="IncludeRecursive" />
+          <e p="node_modules/react-router-dom" t="IncludeRecursive" />
+          <e p="node_modules/react-scripts" t="IncludeRecursive" />
+          <e p="node_modules/reactstrap" t="IncludeRecursive" />
+          <e p="node_modules/rimraf" t="IncludeRecursive" />
+          <e p="node_modules/strip-ansi" t="IncludeRecursive" />
+          <e p="node_modules/symbol-observable" t="IncludeRecursive" />
+          <e p="node_modules/tiny-warning" t="IncludeRecursive" />
+          <e p="node_modules/ts-pnp" t="IncludeRecursive" />
+          <e p="node_modules/tslib" t="IncludeRecursive" />
+          <e p="node_modules/tsutils" t="IncludeRecursive" />
+          <e p="node_modules/uri-js" t="IncludeRecursive" />
+          <e p="package.json" t="Include" />
+          <e p="public" t="Include">
+            <e p="index.html" t="Include" />
+            <e p="manifest.json" t="Include" />
+          </e>
+          <e p="src" t="Include">
+            <e p="api" t="Include">
+              <e p="httpClient.ts" t="Include" />
+              <e p="Models" t="Include">
+                <e p="bookings" t="Include">
+                  <e p="MovieTicket.ts" t="Include" />
+                </e>
+                <e p="customers" t="Include">
+                  <e p="Cust1.ts" t="Include" />
+                  <e p="VIP.ts" t="Include" />
+                </e>
+                <e p="entities" t="Include">
+                  <e p="CinemaHall.ts" t="Include" />
+                </e>
+                <e p="resources" t="Include">
+                  <e p="Seat.ts" t="Include" />
+                </e>
+                <e p="schedules" t="Include">
+                  <e p="RegularSeatSchedule.ts" t="Include" />
+                </e>
+              </e>
+              <e p="RequestModels" t="Include">
+                <e p="CreateCinemaHallRequestModel.ts" t="Include" />
+                <e p="CreateCust1RequestModel.ts" t="Include" />
+                <e p="CreateMovieTicketRequestModel.ts" t="Include" />
+                <e p="CreateRegularSeatScheduleRequestModel.ts" t="Include" />
+                <e p="CreateSeatRequestModel.ts" t="Include" />
+                <e p="CreateVIPRequestModel.ts" t="Include" />
+                <e p="UpdateCinemaHallRequestModel.ts" t="Include" />
+                <e p="UpdateCust1RequestModel.ts" t="Include" />
+                <e p="UpdateMovieTicketRequestModel.ts" t="Include" />
+                <e p="UpdateRegularSeatScheduleRequestModel.ts" t="Include" />
+                <e p="UpdateSeatRequestModel.ts" t="Include" />
+                <e p="UpdateVIPRequestModel.ts" t="Include" />
+              </e>
+            </e>
+            <e p="components" t="Include">
+              <e p="App.tsx" t="Include" />
+              <e p="Chiplist.tsx" t="Include" />
+            </e>
+            <e p="index.tsx" t="Include" />
+            <e p="lifeCycleExtensions.tsx" t="Include" />
+            <e p="pages" t="Include">
+              <e p="BookingOverviewPage.tsx" t="Include" />
+              <e p="BookingPage.tsx" t="Include" />
+              <e p="LoginPage.tsx" t="Include" />
+              <e p="management" t="Include">
+                <e p="CinemaHall" t="Include">
+                  <e p="CinemaHallsOverviewPage.tsx" t="Include" />
+                  <e p="CreateCinemaHallPage.tsx" t="Include" />
+                  <e p="UpdateCinemaHallPage.tsx" t="Include" />
+                </e>
+                <e p="Cust1" t="Include">
+                  <e p="CreateCust1Page.tsx" t="Include" />
+                  <e p="Cust1sOverviewPage.tsx" t="Include" />
+                  <e p="UpdateCust1Page.tsx" t="Include" />
+                </e>
+                <e p="RegularSeatSchedule" t="Include">
+                  <e p="CreateRegularSeatSchedulePage.tsx" t="Include" />
+                  <e p="RegularSeatSchedulesOverviewPage.tsx" t="Include" />
+                  <e p="UpdateRegularSeatSchedulePage.tsx" t="Include" />
+                </e>
+                <e p="ResourceOverviewPage.tsx" t="Include" />
+                <e p="Seat" t="Include">
+                  <e p="CreateSeatPage.tsx" t="Include" />
+                  <e p="SeatsOverviewPage.tsx" t="Include" />
+                  <e p="UpdateSeatPage.tsx" t="Include" />
+                </e>
+                <e p="VIP" t="Include">
+                  <e p="CreateVIPPage.tsx" t="Include" />
+                  <e p="UpdateVIPPage.tsx" t="Include" />
+                  <e p="VIPsOverviewPage.tsx" t="Include" />
+                </e>
+              </e>
+              <e p="UserPage.tsx" t="Include" />
+            </e>
+            <e p="react-app-env.d.ts" t="Include" />
+          </e>
+          <e p="tsconfig.json" t="Include" />
+        </e>
+        <e p="Configuration" t="Include">
+          <e p="PersistenceConfiguration.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="CinemaHallController.cs" t="Include" />
+          <e p="Cust1Controller.cs" t="Include" />
+          <e p="MovieTicketController.cs" t="Include" />
+          <e p="RegularSeatScheduleController.cs" t="Include" />
+          <e p="SeatController.cs" t="Include" />
+          <e p="VIPController.cs" t="Include" />
+        </e>
+        <e p="Handlers" t="Include">
+          <e p="CinemaHallHandler.cs" t="Include" />
+          <e p="Cust1Handler.cs" t="Include" />
+          <e p="MovieTicketHandler.cs" t="Include" />
+          <e p="RegularSeatScheduleHandler.cs" t="Include" />
+          <e p="SeatHandler.cs" t="Include" />
+          <e p="VIPHandler.cs" t="Include" />
+        </e>
+        <e p="Mapping" t="Include">
+          <e p="MappingProfile.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="BookingSystemV4.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Persistence" t="Include">
+          <e p="Models" t="Include">
+            <e p="CinemaHall.cs" t="Include" />
+            <e p="Cust1.cs" t="Include" />
+            <e p="IEntity.cs" t="Include" />
+            <e p="MovieTicket.cs" t="Include" />
+            <e p="RegularSeatSchedule.cs" t="Include" />
+            <e p="Seat.cs" t="Include" />
+            <e p="VIP.cs" t="Include" />
+          </e>
+          <e p="Repositories" t="Include">
+            <e p="BaseRepository.cs" t="Include" />
+            <e p="CinemaHallRepository.cs" t="Include" />
+            <e p="Cust1Repository.cs" t="Include" />
+            <e p="IBaseRepository.cs" t="Include" />
+            <e p="MovieTicketRepository.cs" t="Include" />
+            <e p="RegularSeatScheduleRepository.cs" t="Include" />
+            <e p="SeatRepository.cs" t="Include" />
+            <e p="VIPRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="RequestModels" t="Include">
+          <e p="CreateCinemaHallRequestModels.cs" t="Include" />
+          <e p="CreateCust1RequestModels.cs" t="Include" />
+          <e p="CreateMovieTicketRequestModels.cs" t="Include" />
+          <e p="CreateRegularSeatScheduleRequestModels.cs" t="Include" />
+          <e p="CreateSeatRequestModels.cs" t="Include" />
+          <e p="CreateVIPRequestModels.cs" t="Include" />
+          <e p="UpdateCinemaHallRequestModels.cs" t="Include" />
+          <e p="UpdateCust1RequestModels.cs" t="Include" />
+          <e p="UpdateMovieTicketRequestModels.cs" t="Include" />
+          <e p="UpdateRegularSeatScheduleRequestModels.cs" t="Include" />
+          <e p="UpdateSeatRequestModels.cs" t="Include" />
+          <e p="UpdateVIPRequestModels.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="BookingSystemV4.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
